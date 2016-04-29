@@ -1,0 +1,5 @@
+osio:
+  api_key: YOUR-API-KEY
+  topic: YOUR-TOPIC
+
+output: osio-export.csv
